@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Sail_n__Shoot___Obl_Opg._aswc</RootNamespace>
+  </PropertyGroup>
+
+</Project>

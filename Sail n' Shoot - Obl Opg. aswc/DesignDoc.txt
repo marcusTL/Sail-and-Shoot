@@ -1,0 +1,13 @@
+﻿Sail n' Shoot is a turn-based, 2D ship combat game where the player
+and the enemy starts at opposite sides of the "field", a 2D tile plane of customizable size.
+
+Each turn they will each input a move command(forward, left, right) or an action command(fire, brace, use item, pickup item) 
+The enemy's command will then be executed before the players own commands
+
+The map will after all commands have been executed move both ships one tile forward.
+
+This repeats until 1 ship is sunk, one boards the other or a ship reach the end of the field, where they will be turned around to repeat the process.
+
+Winning is done by reducing your opponents life to 0.
+
+The configuration file can adjust map size, numb. of items, numb. of enemies
